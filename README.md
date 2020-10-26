@@ -3,7 +3,7 @@
 
 - 🔭 **working on random python stuff, discord bots**
 
-- 🌱 **C#, C++, Python**
+- 🌱 learning **C#, C++, Python**
 
 
 
