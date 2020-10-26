@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vojtěch</h1>
 <h3 align="center">i do stuff</h3>
 
-- 🔭 I’m currently working on **random python stuff, discord bot**
+- 🔭 **random python stuff, discord bots**
 
-- 🌱 I’m currently learning **C#, C++, Python and its libraries (kivy, flask, tkinter, ...)**
+- 🌱 **C#, C++, Python**
 
 
 
