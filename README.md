@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vojtěch</h1>
-<h3 align="center">i do stuff</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">.</h3>
 
 - 🔭 **random python stuff, discord bots**
 
